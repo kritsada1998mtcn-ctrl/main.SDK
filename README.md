@@ -374,3 +374,4 @@ Note: the .NET4.0 LibVLCSharp build references a nuget package that may indicate
 <div align="center">
   <a href="https://code.videolan.org/videolan/LibVLCSharp"><img src="src/assets/icon.png"/></a>
 </div>
+
